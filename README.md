@@ -1,6 +1,6 @@
-A reference implementation of PA55 (not PA55 NYAPS) in Dart.
+# PA55 in Dart
 
-Apache [license](https://github.com/pa55/pa55-dart/blob/master/LICENSE).
+A reference implementation of PA55 (not PA55 NYAPS) in Dart. Apache [license](https://github.com/pa55/pa55-dart/blob/master/LICENSE).
 
 ## Usage
 
