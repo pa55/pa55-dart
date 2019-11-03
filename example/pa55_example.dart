@@ -85,7 +85,7 @@ void main(List<String> arguments) {
   } on Exception catch (e) {
     stderr.write(e.toString() + '\r\n');
     printUsage(parser, programVersion);
-    exitCode = -1;
+    exitCode = 2; //error, see: https://dart.dev/tutorials/server/cmdline
   }
   exit(exitCode);
 }
